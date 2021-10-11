@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @YanHairulFirdan
+- 👀 I’m interested in web development especially in backend development
+- 🌱 I’m currently learning laravel
+- 💞️ I’m looking to collaborate on open project in php and laravel
+- 📫 How to reach me? you can contact me on yanhairulfirdan@gmail.com via email and YanHF on twitter
